@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 001 /tmp/hello
+chmod -R 001 hello
